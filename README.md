@@ -70,6 +70,6 @@ These two are examples of De – Morgans theorem. So, we conclude that De – Mo
 
 NAND gates, you can construct the equivalent of any other logic gate, similar to how you can with NOR gates. This is why both NAND and NOR gates are considered universal gates in chip designing.
 
-Example is here:
+Example is here: 
 
 ![image](https://github.com/user-attachments/assets/d29a8126-2fb0-45fe-8f40-cb961c8c4f9a)
